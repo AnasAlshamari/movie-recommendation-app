@@ -10,7 +10,6 @@
 # 🎬 Tawsiya (توصية) - AI Movie Recommendation App
 An intelligent, modern, and responsive movie recommendation web application built with React and Vite. It utilizes the powerful TMDB API combined with custom algorithmic scoring to deliver highly accurate, personalized movie suggestions tailored to the user's taste.
 
-![Tawsiya Header Image](https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=2025&auto=format&fit=crop)
 
 ## ✨ Features
 - **🤖 AI-Powered Recommendations:** Search for any movie and receive intelligent suggestions. Our custom algorithm ranks recommendations based on exact title similarity, shared genres, semantic keyword matching in the plot/description, and global popularity.
